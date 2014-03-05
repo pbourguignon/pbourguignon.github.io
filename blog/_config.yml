@@ -1,3 +1,4 @@
 name: "Out-of-brain memory"
 markdown: redcarpet
 pygments: true
+base-url: /blog
